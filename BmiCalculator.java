@@ -32,6 +32,7 @@ public class BmiCalculator {
         //System.out.print(inchesHeight);
         double bmi =  poundWeight/inchesHeight;
         System.out.println("Body Mass Index is "+bmi);
+        System.out.println("Tambahin ini..");
 
     }
     
